@@ -18,7 +18,6 @@ Welcome to my learning repository! This repo documents my journey and experience
 ---
 
 ## 🚀 Recent Activities
-- **[Workshop: Intro to Git](workshops/intro-to-git.md)** - Learning Git fundamentals.
 - **[Web Development Basics](workshops/web-development-basics.md)** - HTML, CSS, and JavaScript basics.
 
 ---
